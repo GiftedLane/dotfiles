@@ -68,6 +68,9 @@ Now, you can start a new Gitpod workspace to test the configuration.
 - The script adds the necessary initialization commands to your `~/.bashrc` and `~/.zshrc` files.
 - It ensures that `~/.local/bin` is added to your `PATH`.
 
+## Video Walkthrough
+[![Watch the Video](assets/thumbnail.png)](https://www.youtube.com/watch?v=YourVideoID)
+
 ## 🙏 Acknowledgments
 - Oh My Posh for the amazing prompt customization.
 - Gitpod for providing a powerful cloud-based development environment.
